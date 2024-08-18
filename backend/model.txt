@@ -1,0 +1,4 @@
+npx sequelize-cli model:generate --name Category --attributes name:string
+npx sequelize-cli model:generate --name Data --attributes name:string,address:text,operation:string,phone:string,photo:string,gmap:string,email:string,categoryId:integer
+npx sequelize-cli model:generate --name PublicService --attributes name:string,description:text,link:string,icon:string
+npx sequelize-cli model:generate --name Major --attributes about:text,history:text,major:text,comajor:text,culture:text,location:string

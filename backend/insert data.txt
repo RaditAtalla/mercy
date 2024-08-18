@@ -1,0 +1,183 @@
+[
+  {"name": "airport"},
+  {"name": "bank"},
+  {"name": "clinic"},
+  {"name": "culinary"},
+  {"name": "doctor"},
+  {"name": "harbor"},
+  {"name": "hospital"},
+  {"name": "hotel"},
+  {"name": "industry"},
+  {"name": "information"},
+  {"name": "job"},
+  {"name": "mall"},
+  {"name": "market"},
+  {"name": "pharmacy"},
+  {"name": "police"},
+  {"name": "pray"},
+  {"name": "public-service"},
+  {"name": "puskesmas"},
+  {"name": "salon"},
+  {"name": "school"},
+  {"name": "service-station"},
+  {"name": "spbu"},
+  {"name": "sport"},
+  {"name": "terminal"},
+  {"name": "tour"}
+]
+
+{
+  "success": true,
+  "data": [
+    {
+      "id": 1,
+      "name": "airport",
+      "createdAt": "2022-12-04T10:54:35.069Z",
+      "updatedAt": "2022-12-04T10:54:35.069Z"
+    },
+    {
+      "id": 2,
+      "name": "bank",
+      "createdAt": "2022-12-04T10:54:35.069Z",
+      "updatedAt": "2022-12-04T10:54:35.069Z"
+    },
+    {
+      "id": 3,
+      "name": "clinic",
+      "createdAt": "2022-12-04T10:54:35.069Z",
+      "updatedAt": "2022-12-04T10:54:35.069Z"
+    },
+    {
+      "id": 4,
+      "name": "culinary",
+      "createdAt": "2022-12-04T10:54:35.069Z",
+      "updatedAt": "2022-12-04T10:54:35.069Z"
+    },
+    {
+      "id": 5,
+      "name": "doctor",
+      "createdAt": "2022-12-04T10:54:35.069Z",
+      "updatedAt": "2022-12-04T10:54:35.069Z"
+    },
+    {
+      "id": 6,
+      "name": "harbor",
+      "createdAt": "2022-12-04T10:54:35.069Z",
+      "updatedAt": "2022-12-04T10:54:35.069Z"
+    },
+    {
+      "id": 7,
+      "name": "hospital",
+      "createdAt": "2022-12-04T10:54:35.069Z",
+      "updatedAt": "2022-12-04T10:54:35.069Z"
+    },
+    {
+      "id": 8,
+      "name": "hotel",
+      "createdAt": "2022-12-04T10:54:35.069Z",
+      "updatedAt": "2022-12-04T10:54:35.069Z"
+    },
+    {
+      "id": 9,
+      "name": "industry",
+      "createdAt": "2022-12-04T10:54:35.069Z",
+      "updatedAt": "2022-12-04T10:54:35.069Z"
+    },
+    {
+      "id": 10,
+      "name": "information",
+      "createdAt": "2022-12-04T10:54:35.069Z",
+      "updatedAt": "2022-12-04T10:54:35.069Z"
+    },
+    {
+      "id": 11,
+      "name": "job",
+      "createdAt": "2022-12-04T10:54:35.069Z",
+      "updatedAt": "2022-12-04T10:54:35.069Z"
+    },
+    {
+      "id": 12,
+      "name": "mall",
+      "createdAt": "2022-12-04T10:54:35.069Z",
+      "updatedAt": "2022-12-04T10:54:35.069Z"
+    },
+    {
+      "id": 13,
+      "name": "market",
+      "createdAt": "2022-12-04T10:54:35.069Z",
+      "updatedAt": "2022-12-04T10:54:35.069Z"
+    },
+    {
+      "id": 14,
+      "name": "pharmacy",
+      "createdAt": "2022-12-04T10:54:35.069Z",
+      "updatedAt": "2022-12-04T10:54:35.069Z"
+    },
+    {
+      "id": 15,
+      "name": "police",
+      "createdAt": "2022-12-04T10:54:35.069Z",
+      "updatedAt": "2022-12-04T10:54:35.069Z"
+    },
+    {
+      "id": 16,
+      "name": "pray",
+      "createdAt": "2022-12-04T10:54:35.069Z",
+      "updatedAt": "2022-12-04T10:54:35.069Z"
+    },
+    {
+      "id": 17,
+      "name": "public-service",
+      "createdAt": "2022-12-04T10:54:35.069Z",
+      "updatedAt": "2022-12-04T10:54:35.069Z"
+    },
+    {
+      "id": 18,
+      "name": "puskesmas",
+      "createdAt": "2022-12-04T10:54:35.069Z",
+      "updatedAt": "2022-12-04T10:54:35.069Z"
+    },
+    {
+      "id": 19,
+      "name": "salon",
+      "createdAt": "2022-12-04T10:54:35.069Z",
+      "updatedAt": "2022-12-04T10:54:35.069Z"
+    },
+    {
+      "id": 20,
+      "name": "school",
+      "createdAt": "2022-12-04T10:54:35.069Z",
+      "updatedAt": "2022-12-04T10:54:35.069Z"
+    },
+    {
+      "id": 21,
+      "name": "service-station",
+      "createdAt": "2022-12-04T10:54:35.069Z",
+      "updatedAt": "2022-12-04T10:54:35.069Z"
+    },
+    {
+      "id": 22,
+      "name": "spbu",
+      "createdAt": "2022-12-04T10:54:35.069Z",
+      "updatedAt": "2022-12-04T10:54:35.069Z"
+    },
+    {
+      "id": 23,
+      "name": "sport",
+      "createdAt": "2022-12-04T10:54:35.069Z",
+      "updatedAt": "2022-12-04T10:54:35.069Z"
+    },
+    {
+      "id": 24,
+      "name": "terminal",
+      "createdAt": "2022-12-04T10:54:35.069Z",
+      "updatedAt": "2022-12-04T10:54:35.069Z"
+    },
+    {
+      "id": 25,
+      "name": "tour",
+      "createdAt": "2022-12-04T10:54:35.069Z",
+      "updatedAt": "2022-12-04T10:54:35.069Z"
+    }
+  ]
+}

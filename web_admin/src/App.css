@@ -1,0 +1,252 @@
+:root {
+  --primary-color: #212529;
+  --secondary-color: #ff7;
+
+  --background-color: rgb(237, 237, 237);
+  --sidebar-color: rgb(57, 57, 57);
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+  background-color: var(--primary-color) !important;
+  border-color: var(--primary-color) !important;
+}
+
+.ul-unstyled {
+  list-style-type: none;
+}
+
+.home-container {
+  height: 100vh;
+  width: 100%;
+}
+
+.home-top {
+  background-image: url("./assets/images/home-top.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 75vh;
+}
+
+.home-bottom {
+  /* min-height: 20vh; */
+}
+
+.home-bottom ul li {
+  font-size: small;
+}
+
+/* login */
+.login-container {
+  height: 100vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("./assets/images/login-bg.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.login-inner-container {
+  width: 25% !important;
+}
+
+#email-input {
+  background-color: transparent !important;
+  border: none !important;
+  outline: none !important;
+  box-shadow: none;
+}
+
+#pwd-input {
+  background-color: transparent !important;
+  border: none !important;
+  outline: none !important;
+  box-shadow: none;
+}
+
+#login-icon {
+  height: 10vh;
+}
+
+/* dashboard */
+#dashboard-container {
+  height: 100vh;
+  background-color: var(--background-color);
+}
+
+#sidebar {
+  width: 20%;
+  height: 100vh;
+  background-color: var(--primary-color);
+  -webkit-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+#sidebar.active {
+  margin-left: -20%;
+}
+
+#sidebar-toggler {
+  display: none;
+}
+
+#content {
+  width: 80%;
+  height: 100vh;
+  max-height: 100vh;
+  overflow: auto;
+  -webkit-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+#content.active {
+  width: 100%;
+}
+
+#top-content {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#top-content-search {
+  background-color:rgba(0,0,0,0) !important;
+  outline: none !important;
+  box-shadow: none;
+  color: white;
+  width: 50%;
+}
+
+.top-content-pill:hover {
+  color: #000;
+  background-color: white;
+}
+
+#sidebar ul.components {
+  padding: 0;
+}
+
+#sidebar ul li {
+  font-size: 16px;
+}
+
+#sidebar ul li > ul {
+  margin-left: 10px;
+}
+
+#sidebar ul li > ul li {
+  font-size: 14px;
+}
+
+#sidebar ul li a {
+  padding: 10px 0;
+  display: block;
+  color: rgba(255, 255, 255, 0.8);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+#sidebar ul li span {
+  padding: 10px 0;
+  display: block;
+  color: rgba(255, 255, 255, 0.8);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+#sidebar ul li span:hover {
+  color: #f8b739;
+}
+
+#sidebar ul li a:hover {
+  color: #f8b739;
+}
+
+#sidebar ul li.active > a {
+  background: transparent;
+  color: #f8b739;
+}
+
+a[data-bs-toggle="collapse"] {
+  position: relative;
+}
+
+.dropdown-toggle::after {
+  display: block;
+  position: absolute;
+  top: 50%;
+  right: 0;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+@media only screen and (max-width: 600px) {
+  .login-inner-container {
+    width: 70% !important;
+  }
+
+  #content {
+    width: 100%;
+  }
+
+  #sidebar {
+    margin-left: -20%;
+  }
+
+  #content.active {
+    width: 0%;
+  }
+
+  #sidebar.active {
+    margin-left: 0;
+    width: 100%;
+  }
+
+  #sidebar-toggler {
+    display: block;
+    padding: 15px;
+  }
+
+  #top-content-search {
+    width: 100%;
+  }
+}

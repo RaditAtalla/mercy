@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eksporpedia.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>bitcode</key>
+			<false/>
+			<key>buildNumber</key>
+			<string>9</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>072DCBD74261F5DF1FBC11577A85DAD988B0804C</string>
+				<key>dateExpires</key>
+				<string>14/12/23</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>bitcode</key>
+					<false/>
+					<key>buildNumber</key>
+					<string>9</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>072DCBD74261F5DF1FBC11577A85DAD988B0804C</string>
+						<key>dateExpires</key>
+						<string>14/12/23</string>
+						<key>type</key>
+						<string>Cloud Managed Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>hermes.framework</string>
+					<key>symbols</key>
+					<true/>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8J87X7R8PY</string>
+						<key>name</key>
+						<string>Shivi Almas</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>8J87X7R8PY.com.eksporpedia</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>8J87X7R8PY</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>eksporpedia.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>2cc7174e-b9a9-4c55-98d7-bef0579c7612</string>
+				<key>dateExpires</key>
+				<string>14/12/23</string>
+				<key>name</key>
+				<string>iOS Team Store Provisioning Profile: com.eksporpedia</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>8J87X7R8PY</string>
+				<key>name</key>
+				<string>Shivi Almas</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,144 @@
+{
+    "data" : [
+        {
+            "id" : 1,
+            "name" : "LAYANAN PENGADUAN BANTUAN SOSIAL PENANGANAN COVID-19 DINAS SOSIAL KOTA MEDAN",
+            "deskripsi" : "Merupakan layanan pengaduan bantuan sosial yang diselenggarakan oleh Dinas Sosial Kota Medan, selain itu pada website ini juga memungkinkan untuk melalui kementrian Sosial RI secara langsung",
+            "link" : "https://aduanbansos.pemkomedan.go.id/",
+            "photo" : "https://aduanbansos.pemkomedan.go.id/img/logo%20pemko.png"
+        },
+        {
+            "id" : 2,
+            "name" : "E-SARPRAS Dinas Pemuda Dan Olahraga Kota Medan",
+            "deskripsi" : "aplikasi ini merupakan sarana pendataan, namun pada website aplikasi ini memungkinkan masyarakat untuk memberikan masukan",
+            "link" : "https://e-sarpras.pemkomedan.go.id/",
+            "photo" : ""
+        },
+        {
+            "id" : 3,
+            "name" : "E-Survei Pemko Medan",
+            "deskripsi" : "Pada website ini, masyarakat dapat mengisi survei kepuasan oleh dinas sosial serta pelayanan puskesmas dinas kesehatan",
+            "link" : "https://baghakda.pemkomedan.go.id/",
+            "photo" : "https://baghakda.pemkomedan.go.id/assets/public/img/logo-medan.gif"
+        },
+        {
+            "id" : 4,
+            "name" : "E-Warnet Diskominfo Medan",
+            "deskripsi" : "Pada website ini, masyarakat yang ingin melakukan daftar Izin Rekomendasi Warnet dapat melakukan pengajuan melalui website ini",
+            "link" : "https://ewarnet.pemkomedan.go.id/",
+            "photo" : "https://app.ewarnet.pemkomedan.go.id/images/logo-dark-176x43.png"
+        },
+        {
+            "id" : 5,
+            "name" : "Institusi Pembinaan Penelitian & Pengembangan PEMKO Medan",
+            "deskripsi" : "merupakan website yang dikelola oleh Balitbang Kota Medan, website ini menawarkan 3 layanan di dalamnya, diantaranya adalah E-Jurnal, Peraturan, dan SKPD",
+            "link" : "https://ejppbalitbang.pemkomedan.go.id/",
+            "photo" : "https://ejppbalitbang.pemkomedan.go.id/assets/png/logo.png"
+        },
+        {
+            "id" : 6,
+            "name" : "Hitung Pangan - Kota Medan",
+            "deskripsi" : "merupakan apliksi yang dikelola oleh Dispora Kota medan yang digunakan untuk melakukan pendataan, namun pada website juga memiliki layanan bagi masyarakat untuk memberikan masukan",
+            "link" : "https://hitungpangan.pemkomedan.go.id/",
+            "photo" : "https://hitungpangan.pemkomedan.go.id/assets/images/logo.png"
+        },
+        {
+            "id" : 7,
+            "name" : "JDIH - Kota Medan",
+            "deskripsi" : "aplikasi berbasis web ini adalah sebuah layanan aplikasi yang digunakan sebagai mesin pencarian terkait peraturan perundang-undangan diantaranya seperti Peraturan Daerah dan peraturan walikota",
+            "link" : "https://jdih.pemkomedan.go.id/",
+            "photo" : "https://jdih.pemkomedan.go.id/jdihnew/assets/gambar/logo-header.png"
+        },
+        {
+            "id" : 8,
+            "name" : "SINOBU METROLOGI DINAS PERDAGANGAN KOTA MEDAN",
+            "deskripsi" : "aplikasi berbasis web ini digunakan untuk melakukan permohonan pengajuan Tera & Tera Ulang pada pemerintah kota medan",
+            "link" : "https://metrologi.pemkomedan.go.id/",
+            "photo" : ""
+        },
+        {
+            "id" : 9,
+            "name" : "Patrol Taru - Kota Medan",
+            "deskripsi" : "Merupakan layanan pengaduan masyarakat untuk pengendalian pemanfaatan ruang Kota Medan",
+            "link" : "https://patroltaru.pemkomedan.go.id/",
+            "photo" : "https://patroltaru.pemkomedan.go.id/home-page/images/new-logo-white.png"
+        },
+        {
+            "id" : 10,
+            "name" : "PPDB Kota Medan",
+            "deskripsi" : "Merupakan aplikasi sebagai layanan bagi masyarakat yang ingin mendaftarkan anak untuk sekolah SMP",
+            "link" : "https://ppdb.pemkomedan.go.id/",
+            "photo" : ""
+        },
+        {
+            "id" : 11,
+            "name" : "Rekomendasi Media Online",
+            "deskripsi" : "Merupakan layanan yang dikelola oleh Diskominfo Kota Medan untuk memudahkan dalam melakukan pendaftaran Izin Rekomendasi Media Online",
+            "link" : "https://rekomendasi.pemkomedan.go.id/rekomendasi-media-online/",
+            "photo" : "https://ppdb.pemkomedan.go.id/assets/img/logo-medan.gif"
+        },
+        {
+            "id" : 12,
+            "name" : "UMKM Kecamatan Medan Tuntungan",
+            "deskripsi" : "Aplikasi ini merupakan layanan yang memungkinkan masyarakat medan tuntungan untuk mendaftarkan UMKM miliknya",
+            "link" : "https://sakasanwiratuntungan.pemkomedan.go.id/",
+            "photo" : "https://sakasanwiratuntungan.pemkomedan.go.id/assets/img/web-image/logo-ico.png"
+        },
+        {
+            "id" : 13,
+            "name" : "SISTEM ADMINISTRASI LAYANAN KECAMATAN DAN KELURAHAN",
+            "deskripsi" : "Merupakan layanan yang dikelola pemerintah kota medan dimana dari web ini menawarkan berbagai layanan yang bisa mempermudah urusan administrasi seperti pengajuan surat-surat dan lainnya",
+            "link" : "https://siap.pemkomedan.go.id/",
+            "photo" : "https://siap.pemkomedan.go.id/assets/front/img/favicon.png"
+        },
+        {
+            "id" : 14,
+            "name" : "SIAP OPO MAS",
+            "deskripsi" : "Merupakan Sistem Informasi Pelayanan Organisasi Politik dan Organisasi Masyarakat di Kota Medan",
+            "link" : "https://siapopomas.pemkomedan.go.id/",
+            "photo" : "https://siapopomas.pemkomedan.go.id/assets/img/logo-medan.gif"
+        },
+        {
+            "id" : 15,
+            "name" : "SIMPANG MEDAN",
+            "deskripsi" : "Sistem pelayanan untuk menyediakan data dan informasi pangan yang valid dan terkini secara cepat melalui teknologi informasi sehingga memudahkan institusi maupun masyarakat luas dapat mengakses informasi pangan tersebut dengan cepat",
+            "link" : "https://simpang.pemkomedan.go.id/",
+            "photo" : "https://simpang.pemkomedan.go.id/assets/images/logo.png"
+        },
+        {
+            "id" : 16,
+            "name" : "SIM - ARSIP MEDAN BARAT",
+            "deskripsi" : "Merupakan layanan untuk melakukan verifikasi berkas Sertifikat Tanah",
+            "link" : "https://simarsip.pemkomedan.go.id/",
+            "photo" : "https://medanbarat.pemkomedan.go.id/web/assets/public/img/logo-medan.gif"
+        },
+        {
+            "id" : 17,
+            "name" : "SIRKA",
+            "deskripsi" : "adalah layanan yang dibuat dalam upaya mencegah terjadinya musibah kebakaran atau meluasnya area kebakaran ke ruangan lain, atau upaya pencegahanya meluasnya kebakaran ke gedung atau bangunan lainnya",
+            "link" : "https://sirka.pemkomedan.go.id/",
+            "photo" : "https://medanbarat.pemkomedan.go.id/web/assets/public/img/logo-medan.gif"
+        },
+        {
+            "id" : 18,
+            "name" : "Siyandu Kicaluling Medan Petisah",
+            "deskripsi" : "Penerapan Sistem Informasi Layanan Pengaduan Kinerja Camat, Lurah, dan Kepala Lingkungan terhadap mutu pelayanan publik yang diselenggarakan Camat, Lurah, dan Kepala Lingkungan di Medan Petisah",
+            "link" : "https://siyandukicaluling.pemkomedan.go.id/",
+            "photo" : ""
+        },
+        {
+            "id" : 19,
+            "name" : "SURVEI KEPUASAN MASYARAKAT Dinas Komunikasi Dan Informatika Kota Medan",
+            "deskripsi" : "adalah data dan informasi tentang tingkat kepuasan masyarakat yang diperoleh dari hasil pengukuran secara kuantitatif dan kualitatif atas pendapat masyarakat dalam memperoleh pelayanan dari aparatur penyelenggara pelayanan publik",
+            "link" : "https://survei.pemkomedan.go.id/",
+            "photo" : "https://siyandukicaluling.pemkomedan.go.id/assets/img/logo.png"
+        },
+        {
+            "id" : 20,
+            "name" : "Whistle Blowing System Pemerintah Kota Medan",
+            "deskripsi" : "WBS adalah mekanisme penyampaian pengaduan dugaan tindak pidana tertentu yang telah terjadi atau akan terjadi yang melibatkan pegawai dan orang lain yang yang dilakukan dalam organisasi tempatnya bekerja, dimana pelapor bukan merupakan bagian dari pelaku kejahatan yang dilaporkannya.",
+            "link" : "https://wbs.pemkomedan.go.id/",
+            "photo" : "https://wbs.pemkomedan.go.id/assets/img/logo-pemko.png"
+        }
+    ]
+}
